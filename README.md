@@ -1,4 +1,4 @@
-# cmpe273_project
+# cmpe273_team_project
 CMPE 273 Spring 2020 team Project
 
 ## Team Members
